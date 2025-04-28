@@ -37,7 +37,11 @@ En esta sección se encuentra un listado de los cambios hechos hasta el 30 de ab
 - Gráficos en web -> <a href="https://www.chartjs.org/docs/latest/getting-started/">Link 1<a/> - <a href="https://www.youtube.com/watch?v=ZWetNrDYK3U">Link 2<a/>.
 - Ayuda general -> <a href="https://claude.ai">Link<a/>.
 
+<i><h2>Código actualizado</h2></i>
+
 Links a repositorios con código actualizado -> <a href="https://github.com/IgnacioLazZam/StayOn-App/tree/firebase">Android<a/> - <a href="https://github.com/IgnacioLazZam/StayOn-Ionic/tree/firebase">Web<a/>.
+
+<i><h2>Videos</h2></i>
 
 Video explicativo -> <a href="">Android<a/> <br/>
 Video explicativo -> <a href="">Web<a/>
