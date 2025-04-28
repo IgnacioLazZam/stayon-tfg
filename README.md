@@ -12,7 +12,7 @@ En este enlace se encuetra la primera entrega del proyecto -> <a href="https://w
 
 En esta sección se encuentra un listado de los cambios hechos hasta el 30 de abril, además de dos videos demostrativos de la aplicación web y móvil.
 
-<h2>Cambios en aplicación móvil:</h2>
+<i><h2>Cambios en aplicación móvil:</h2></i>
 
 - Conexión completa con Firebase.
 - Se creó un interceptor para peticiones.
@@ -22,14 +22,14 @@ En esta sección se encuentra un listado de los cambios hechos hasta el 30 de ab
 - Se añadieron gráficos de progreso de hábitos (aunque aún están en desarrollo).
 - Se añadió la opción de seleccionar foto del media store (en la vista de perfil).
 
-<h2>Cambios en aplicación web:</h2>  
+<i><h2>Cambios en aplicación web:</h2></i>  
 
 - Se solucionó un problema con la lógica de progreso de hábitos.
 - Se añadieron notificaciones locales.
 - Se añadieron gráficos de progreso de hábitos (aunque aún están en desarrollo).
 - Se añadió una pantalla de splash.
 
-<h2>Bibliografía</h2>
+<i><h2>Bibliografía</h2></i>
 
 - Componente de carga de esqueleto -> <a href="https://github.com/Faltenreich/SkeletonLayout">Link<a/>.
 - Notificaciones y worker manager -> <a href="https://vtsen.hashnode.dev/simple-example-to-use-workmanager-and-notification">Link 1<a/> - <a href="https://www.youtube.com/watch?v=Jw0l5F-HFuk">Link 2<a/> - <a href="https://developer.android.com/codelabs/android-workmanager?hl=es-419#0">Link 3<a/>.
@@ -39,5 +39,5 @@ En esta sección se encuentra un listado de los cambios hechos hasta el 30 de ab
 
 Links a repositorios con código actualizado -> <a href="https://github.com/IgnacioLazZam/StayOn-App/tree/firebase">Android<a/> - <a href="https://github.com/IgnacioLazZam/StayOn-Ionic/tree/firebase">Web<a/>.
 
-Video explicativo -> <a href="">Android<a/>
+Video explicativo -> <a href="">Android<a/> <br/>
 Video explicativo -> <a href="">Web<a/>
