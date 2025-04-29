@@ -43,5 +43,5 @@ Links a repositorios con código actualizado -> <a href="https://github.com/Igna
 
 <i><h2>Videos</h2></i>
 
-Video explicativo -> <a href="">Android<a/> <br/>
-Video explicativo -> <a href="">Web<a/>
+Video explicativo -> <a href="https://youtu.be/rwde8NWhjto">Android<a/> <br/>
+Video explicativo -> <a href="https://youtu.be/tFTdq5fpPeY">Web<a/>
