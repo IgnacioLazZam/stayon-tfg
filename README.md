@@ -6,7 +6,7 @@
   ![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20Web-blue)
   ![Firebase](https://img.shields.io/badge/Backend-Firebase-orange)
   
-  **"Desarrolla disciplina, alcanza tus metas"**
+  **<i>"Desarrolla disciplina, alcanza tus metas"</i>**
   
 </div>
 
@@ -83,20 +83,20 @@
 Este proyecto se presenta como trabajo final para múltiples asignaturas. A continuación se encuentran los recursos específicos para cada una:
 
 ### 💾 **Acceso a Datos**
-- 🌐 **Aplicación Web Desplegada**: [Ver Demo en Vivo](URL_APLICACION_WEB_AQUI)
+- 🌐 **Aplicación Web Desplegada**: [Ver Demo en Vivo](https://stayon.netlify.app/splash)
 
 ### 📱 **Programación Multimedia y Dispositivos Móviles**
-- 📦 **APK Android**: [Descargar StayOn.apk](URL_APK_AQUI)
+- 📦 **APK Android**: [Descargar StayOn.apk]()
 
 ### 🎨 **Desarrollo de Interfaces**
 | Recurso | Enlace | Descripción |
 |---------|--------|-------------|
-| **Balsamiq** | [Archivo Editable](URL_BALSAMIQ_AQUI) | Wireframes y mockups iniciales |
-| **Figma** | [Proyecto Figma](URL_FIGMA_AQUI) | Diseño UI/UX completo |
-| **Power BI** | [Dashboard](URL_POWERBI_AQUI) | Análisis de datos y métricas |
+| **Balsamiq** | [Archivo Editable]() | Wireframes y mockups iniciales |
+| **Figma** | [Proyecto Figma]() | Diseño UI/UX completo |
+| **Power BI** | [Dashboard]() | Análisis de datos y métricas |
 
 ### 📊 **Sistema de Gestión Empresarial**
-- 🐍 **Análisis con Pandas**: [Repositorio GitHub](URL_GITHUB_PANDAS_AQUI)
+- 🐍 **Análisis con Pandas**: [Repositorio GitHub]()
   - *Operaciones de análisis de datos y procesamiento con Python*
 
 ---
