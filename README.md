@@ -49,10 +49,10 @@
 
 ### 📂 Repositorios Actualizados
 
-| Plataforma | Repositorio | Branch |
-|------------|-------------|---------|
-| 🤖 **Android** | [StayOn-App](https://github.com/IgnacioLazZam/StayOn-App/tree/firebase) | `firebase` |
-| 🌐 **Web** | [StayOn-Ionic](https://github.com/IgnacioLazZam/StayOn-Ionic/tree/firebase) | `firebase` |
+| Plataforma | Repositorio |
+|------------|-------------|
+| 🤖 **Android** | [StayOn-App](https://github.com/IgnacioLazZam/StayOn-App/tree/firebase) | 
+| 🌐 **Web** | [StayOn-Ionic](https://github.com/IgnacioLazZam/StayOn-Ionic/tree/firebase) |
 
 ---
 
@@ -60,10 +60,10 @@
 
 ### 📹 Videos Explicativos
 
-| Plataforma | Demo | Descripción |
-|------------|------|-------------|
-| 📱 **Android** | [Ver Demo](https://youtu.be/rwde8NWhjto) | Funcionalidades móviles completas |
-| 💻 **Web** | [Ver Demo](https://youtu.be/tFTdq5fpPeY) | Experiencia web responsive |
+| Plataforma | Demo |
+|------------|------|
+| 📱 **Android** | [Ver Demo](https://youtu.be/rwde8NWhjto) |
+| 💻 **Web** | [Ver Demo](https://youtu.be/tFTdq5fpPeY) |
 
 ---
 
