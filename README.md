@@ -78,11 +78,15 @@
 
 ---
 
-##📚 Bibliografía y Referencias
-Toda la documentación, enlaces, tutoriales y recursos utilizados durante el desarrollo de este proyecto están organizados y disponibles en:
-<div align="center">
-https://docs.google.com/document/d/1ddt1ArdXTCSb4SHTVLT_xG4fAQxvfNh3pbCK70N2_s4/edit?usp=sharing 
-📋 Incluye: Documentación técnica, tutoriales, artículos de referencia, recursos de diseño y enlaces útiles
-</div>
+## 📚 Bibliografía y Referencias
 
+Toda la documentación, enlaces, tutoriales y recursos utilizados durante el desarrollo de este proyecto están organizados y disponibles en:
+
+<div align="center">
+  
+  [![Google Drive](https://img.shields.io/badge/Google%20Drive-Documentación%20y%20Referencias-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://docs.google.com/document/d/1ddt1ArdXTCSb4SHTVLT_xG4fAQxvfNh3pbCK70N2_s4/edit?usp=sharing)
+  
+  *📋 Incluye: Documentación técnica, tutoriales, artículos de referencia, recursos de diseño y enlaces útiles*
+  
+</div>
 
