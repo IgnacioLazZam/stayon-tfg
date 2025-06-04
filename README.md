@@ -1,47 +1,81 @@
-# Proyecto StayOn TFG
+# 🎯 StayOn - Trabajo de Fin de Grado
 
-Este repositorio contiene la información de manera detallada sobre el avance del proyecto de trabajo de fin de grado.
+<div align="center">
+  
+  ![Status](https://img.shields.io/badge/Status-En%20Desarrollo-yellow)
+  ![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20Web-blue)
+  ![Firebase](https://img.shields.io/badge/Backend-Firebase-orange)
+  
+  **Conviértete en una persona más disciplinada mediante el cumplimiento de hábitos**
+  
+</div>
 
-# Breve descripción del proyecto 🎯
+---
 
-StayOn es una aplicación cuyo objetivo es hacer que sus usuarios se conviertan en personas más disciplinadas mediante el cumplimiento de hábitos para poder así lograr sus metas.
+## 📋 Descripción del Proyecto
 
-En este enlace se encuetra la primera entrega del proyecto -> <a href="https://www.notion.so/Anteproyecto-StayOn-1c173949d684802089a7ccfd38d762b4?pvs=4">Ante proyecto</a>
+**StayOn** es una aplicación innovadora diseñada para ayudar a los usuarios a desarrollar disciplina personal a través del seguimiento y cumplimiento de hábitos diarios. Nuestro objetivo es proporcionar las herramientas necesarias para que puedas alcanzar tus metas de manera consistente y efectiva.
 
-# Checkpoint
+### 🔗 Documentación Inicial
+📄 [**Anteproyecto StayOn**](https://www.notion.so/Anteproyecto-StayOn-1c173949d684802089a7ccfd38d762b4?pvs=4) - Primera entrega del proyecto
 
-En esta sección se encuentra un listado de los cambios hechos hasta el 30 de abril, además de dos videos demostrativos de la aplicación web y móvil.
+---
 
-<i><h2>Cambios en aplicación móvil:</h2></i>
+## 🚀 Checkpoint - Avances hasta el 30 de Abril
 
-- Conexión completa con Firebase.
-- Se creó un interceptor para peticiones.
-- Se cambiaron los temas (aunque hay lagunas en el modo oscuro) y el aspecto visual.
-- Se añadió un componente de carga de esqueleto para una apariencia más atractiva.
-- Se implementaron notificaciones con worker manager.
-- Se añadieron gráficos de progreso de hábitos (aunque aún están en desarrollo).
-- Se añadió la opción de seleccionar foto del media store (en la vista de perfil).
+### 📱 **Aplicación Móvil (Android)**
 
-<i><h2>Cambios en aplicación web:</h2></i>  
+#### ✨ Nuevas Funcionalidades
+- 🔥 **Integración completa con Firebase** - Base de datos en tiempo real
+- 🌐 **Interceptor de peticiones** - Manejo optimizado de conexiones
+- 🎨 **Renovación visual completa** - Nuevos temas y diseño mejorado
+- 🌙 **Modo oscuro** *(en desarrollo - algunas mejoras pendientes)*
+- ⚡ **Componente skeleton loading** - Experiencia de usuario más fluida
+- 🔔 **Sistema de notificaciones** - Implementado con Worker Manager
+- 📊 **Gráficos de progreso** *(funcionalidad en desarrollo)*
+- 📸 **Selector de fotos** - Integración con galería del dispositivo
 
-- Se solucionó un problema con la lógica de progreso de hábitos.
-- Se añadieron notificaciones locales.
-- Se añadieron gráficos de progreso de hábitos (aunque aún están en desarrollo).
-- Se añadió una pantalla de splash.
+### 💻 **Aplicación Web**
 
-<i><h2>Bibliografía</h2></i>
+#### 🛠️ Mejoras Implementadas
+- ✅ **Fix en lógica de progreso** - Corrección de errores en seguimiento de hábitos
+- 🔔 **Notificaciones locales** - Sistema de recordatorios integrado
+- 📈 **Gráficos de progreso** *(en desarrollo continuo)*
+- 🎬 **Pantalla de splash** - Mejora en la experiencia de inicio
 
-- Componente de carga de esqueleto -> <a href="https://github.com/Faltenreich/SkeletonLayout">Link<a/>.
-- Notificaciones y worker manager -> <a href="https://vtsen.hashnode.dev/simple-example-to-use-workmanager-and-notification">Link 1<a/> - <a href="https://www.youtube.com/watch?v=Jw0l5F-HFuk">Link 2<a/> - <a href="https://developer.android.com/codelabs/android-workmanager?hl=es-419#0">Link 3<a/>.
-- Gráficos en android -> <a href="https://github.com/PhilJay/MPAndroidChart">Link<a/>.
-- Gráficos en web -> <a href="https://www.chartjs.org/docs/latest/getting-started/">Link 1<a/> - <a href="https://www.youtube.com/watch?v=ZWetNrDYK3U">Link 2<a/>.
-- Ayuda general -> <a href="https://claude.ai">Link<a/>.
+---
 
-<i><h2>Código actualizado</h2></i>
+## 💻 Código Fuente
 
-Links a repositorios con código actualizado -> <a href="https://github.com/IgnacioLazZam/StayOn-App/tree/firebase">Android<a/> - <a href="https://github.com/IgnacioLazZam/StayOn-Ionic/tree/firebase">Web<a/>.
+### 📂 Repositorios Actualizados
 
-<i><h2>Videos</h2></i>
+| Plataforma | Repositorio | Branch |
+|------------|-------------|---------|
+| 🤖 **Android** | [StayOn-App](https://github.com/IgnacioLazZam/StayOn-App/tree/firebase) | `firebase` |
+| 🌐 **Web** | [StayOn-Ionic](https://github.com/IgnacioLazZam/StayOn-Ionic/tree/firebase) | `firebase` |
 
-Video explicativo -> <a href="https://youtu.be/rwde8NWhjto">Android<a/> <br/>
-Video explicativo -> <a href="https://youtu.be/tFTdq5fpPeY">Web<a/>
+---
+
+## 🎥 Demos en Video
+
+### 📹 Videos Explicativos
+
+| Plataforma | Demo | Descripción |
+|------------|------|-------------|
+| 📱 **Android** | [Ver Demo](https://youtu.be/rwde8NWhjto) | Funcionalidades móviles completas |
+| 💻 **Web** | [Ver Demo](https://youtu.be/tFTdq5fpPeY) | Experiencia web responsive |
+
+---
+
+## 🔧 Stack Tecnológico
+
+- **Frontend Móvil**: Android Nativo
+- **Frontend Web**: Ionic Framework
+- **Backend**: Firebase
+- **Base de Datos**: Firestore
+- **Notificaciones**: Firebase Cloud Messaging
+- **Gestión de Estado**: Implementación personalizada
+
+---
+
+
