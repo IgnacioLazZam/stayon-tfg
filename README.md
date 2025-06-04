@@ -6,7 +6,7 @@
   ![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20Web-blue)
   ![Firebase](https://img.shields.io/badge/Backend-Firebase-orange)
   
-  **Conviértete en una persona más disciplinada mediante el cumplimiento de hábitos**
+  **"Desarrolla disciplina, alcanza tus metas"**
   
 </div>
 
@@ -51,7 +51,7 @@
 
 | Plataforma | Repositorio |
 |------------|-------------|
-| 🤖 **Android** | [StayOn-App](https://github.com/IgnacioLazZam/StayOn-App/tree/firebase) | 
+| 🤖 **Android** | [StayOn-App](https://github.com/IgnacioLazZam/StayOn-App/tree/firebase) |
 | 🌐 **Web** | [StayOn-Ionic](https://github.com/IgnacioLazZam/StayOn-Ionic/tree/firebase) |
 
 ---
@@ -78,6 +78,30 @@
 
 ---
 
+## 🎓 Entregas por Asignatura
+
+Este proyecto se presenta como trabajo final para múltiples asignaturas. A continuación se encuentran los recursos específicos para cada una:
+
+### 💾 **Acceso a Datos**
+- 🌐 **Aplicación Web Desplegada**: [Ver Demo en Vivo](URL_APLICACION_WEB_AQUI)
+
+### 📱 **Programación Multimedia y Dispositivos Móviles**
+- 📦 **APK Android**: [Descargar StayOn.apk](URL_APK_AQUI)
+
+### 🎨 **Desarrollo de Interfaces**
+| Recurso | Enlace | Descripción |
+|---------|--------|-------------|
+| **Balsamiq** | [Archivo Editable](URL_BALSAMIQ_AQUI) | Wireframes y mockups iniciales |
+| **Figma** | [Proyecto Figma](URL_FIGMA_AQUI) | Diseño UI/UX completo |
+| **Power BI** | [Dashboard](URL_POWERBI_AQUI) | Análisis de datos y métricas |
+
+### 📊 **Sistema de Gestión Empresarial**
+- 🐍 **Análisis con Pandas**: [Repositorio GitHub](URL_GITHUB_PANDAS_AQUI)
+  - *Operaciones de análisis de datos y procesamiento con Python*
+
+---
+
+
 ## 📚 Bibliografía y Referencias
 
 Toda la documentación, enlaces, tutoriales y recursos utilizados durante el desarrollo de este proyecto están organizados y disponibles en:
@@ -89,4 +113,3 @@ Toda la documentación, enlaces, tutoriales y recursos utilizados durante el des
   *📋 Incluye: Documentación técnica, tutoriales, artículos de referencia, recursos de diseño y enlaces útiles*
   
 </div>
-
