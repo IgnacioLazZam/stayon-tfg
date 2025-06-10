@@ -96,7 +96,7 @@ Este proyecto se presenta como trabajo final para múltiples asignaturas. A cont
 | **Power BI** | [Dashboard]() | Análisis de datos y métricas |
 
 ### 📊 **Sistema de Gestión Empresarial**
-- 🐍 **Análisis con Pandas**: [Repositorio GitHub]()
+- 🐍 **Análisis con Pandas**: [Repositorio GitHub](https://github.com/IgnacioLazZam/StayOn_Pandas)
   - *Operaciones de análisis de datos y procesamiento con Python*
 
 ---
