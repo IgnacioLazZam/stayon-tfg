@@ -91,8 +91,8 @@ Este proyecto se presenta como trabajo final para múltiples asignaturas. A cont
 ### 🎨 **Desarrollo de Interfaces**
 | Recurso | Enlace | Descripción |
 |---------|--------|-------------|
-| **Balsamiq** | [Archivo Editable]() | Wireframes y mockups iniciales |
-| **Figma** | [Proyecto Figma]() | Diseño UI/UX completo |
+| **Balsamiq** | [Balsamiq]() | Wireframes y mockups iniciales |
+| **Figma** | [Figma](https://github.com/IgnacioLazZam/StayOn_Figma) | Diseño UI/UX completo |
 | **Power BI** | [Dashboard]() | Análisis de datos y métricas |
 
 ### 📊 **Sistema de Gestión Empresarial**
