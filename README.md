@@ -73,8 +73,6 @@
 - **Frontend Web**: Ionic Framework
 - **Backend**: Firebase
 - **Base de Datos**: Firestore
-- **Notificaciones**: Firebase Cloud Messaging
-- **Gestión de Estado**: Implementación personalizada
 
 ---
 
@@ -83,7 +81,7 @@
 Este proyecto se presenta como trabajo final para múltiples asignaturas. A continuación se encuentran los recursos específicos para cada una:
 
 ### 💾 **Acceso a Datos**
-- 🌐 **Aplicación Web Desplegada**: [Ver Demo en Vivo](https://stayon.netlify.app/splash)
+- 🌐 **Aplicación Web Desplegada**: [Aquí](https://stayon.netlify.app/splash)
 
 ### 📱 **Programación Multimedia y Dispositivos Móviles**
 - 📦 **APK Android**: [Descargar StayOn.apk]()
