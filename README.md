@@ -35,6 +35,14 @@
 - 📊 **Gráficos de progreso** *(funcionalidad en desarrollo)*
 - 📸 **Selector de fotos** - Integración con galería del dispositivo
 
+### 💻 **Aplicación Web**
+
+#### 🛠️ Mejoras Implementadas
+- ✅ **Fix en lógica de progreso** - Corrección de errores en seguimiento de hábitos
+- 🔔 **Notificaciones locales** - Sistema de recordatorios integrado
+- 📈 **Gráficos de progreso** *(en desarrollo continuo)*
+- 🎬 **Pantalla de splash** - Mejora en la experiencia de inicio
+
 
 ## 🎥 Demos en Video (Checkpoint)
 
@@ -44,16 +52,6 @@
 |------------|------|
 | 📱 **Android** | [Checkpoint](https://youtu.be/rwde8NWhjto) |
 | 💻 **Web** | [Checkpoint](https://youtu.be/tFTdq5fpPeY) |
-
----
-
-### 💻 **Aplicación Web**
-
-#### 🛠️ Mejoras Implementadas
-- ✅ **Fix en lógica de progreso** - Corrección de errores en seguimiento de hábitos
-- 🔔 **Notificaciones locales** - Sistema de recordatorios integrado
-- 📈 **Gráficos de progreso** *(en desarrollo continuo)*
-- 🎬 **Pantalla de splash** - Mejora en la experiencia de inicio
 
 ---
 
