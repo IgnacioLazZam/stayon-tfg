@@ -35,7 +35,6 @@
 - 📊 **Gráficos de progreso** *(funcionalidad en desarrollo)*
 - 📸 **Selector de fotos** - Integración con galería del dispositivo
 
----
 
 ## 🎥 Demos en Video (Checkpoint)
 
