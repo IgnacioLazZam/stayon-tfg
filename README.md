@@ -35,6 +35,19 @@
 - 📊 **Gráficos de progreso** *(funcionalidad en desarrollo)*
 - 📸 **Selector de fotos** - Integración con galería del dispositivo
 
+---
+
+## 🎥 Demos en Video (Checkpoint)
+
+### 📹 Videos Explicativos
+
+| Plataforma | Demo |
+|------------|------|
+| 📱 **Android** | [Checkpoint](https://youtu.be/rwde8NWhjto) |
+| 💻 **Web** | [Checkpoint](https://youtu.be/tFTdq5fpPeY) |
+
+---
+
 ### 💻 **Aplicación Web**
 
 #### 🛠️ Mejoras Implementadas
@@ -56,23 +69,23 @@
 
 ---
 
-## 🎥 Demos en Video
-
-### 📹 Videos Explicativos
-
-| Plataforma | Demo |
-|------------|------|
-| 📱 **Android** | [Ver Demo](https://youtu.be/rwde8NWhjto) |
-| 💻 **Web** | [Ver Demo](https://youtu.be/tFTdq5fpPeY) |
-
----
-
 ## 🔧 Stack Tecnológico
 
 - **Frontend Móvil**: Android Nativo
 - **Frontend Web**: Ionic Framework
 - **Backend**: Firebase
 - **Base de Datos**: Firestore
+
+---
+
+## 🎥 Guías de uso de la aplicación
+
+### 📹 Videos Explicativos
+
+| Plataforma | Demo |
+|------------|------|
+| 📱 **Android** | [Guía]() |
+| 💻 **Web** | [Guía](https://youtu.be/JpoNFGmCaOk) |
 
 ---
 
