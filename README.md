@@ -96,7 +96,7 @@ Este proyecto se presenta como trabajo final para múltiples asignaturas. A cont
 - 🌐 **Aplicación Web Desplegada**: [Aquí](https://stayon.netlify.app/splash)
 
 ### 📱 **Programación Multimedia y Dispositivos Móviles**
-- 📦 **APK Android**: [Descargar StayOn.apk]()
+- 📦 **APK Android**: [Aquí](https://github.com/IgnacioLazZam/StayOn-App/tree/firebase)
 
 ### 🎨 **Desarrollo de Interfaces**
 | Recurso | Enlace | Descripción |
