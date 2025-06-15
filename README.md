@@ -62,7 +62,7 @@
 | Plataforma | Repositorio |
 |------------|-------------|
 | 🤖 **Android** | [StayOn-App](https://github.com/IgnacioLazZam/StayOn-App/tree/firebase) |
-| 🌐 **Web** | [StayOn-Ionic](https://github.com/IgnacioLazZam/StayOn-Ionic/tree/firebase) |
+| 🌐 **Web** | [StayOn-Ionic](https://github.com/IgnacioLazZam/StayOn-Ionic/tree/develop) |
 
 ---
 
