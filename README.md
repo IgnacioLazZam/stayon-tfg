@@ -111,6 +111,7 @@ Este proyecto se presenta como trabajo final para múltiples asignaturas. A cont
 
 ---
 
+> Enlace a presentación en canva: [aquí](https://www.canva.com/design/DAGoKs2wpZ0/d31AWOMoAwmz0341T_kZ5w/edit?utm_content=DAGoKs2wpZ0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## 📚 Bibliografía y Referencias
 
