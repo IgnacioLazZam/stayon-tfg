@@ -64,6 +64,8 @@
 | 🤖 **Android** | [StayOn-App](https://github.com/IgnacioLazZam/StayOn-App/tree/firebase) |
 | 🌐 **Web** | [StayOn-Ionic](https://github.com/IgnacioLazZam/StayOn-Ionic/tree/develop) |
 
+> 📂 Documento con lista de cambios en ambas aplicaciones: [aquí](https://docs.google.com/document/d/1ptIh8uC_pOx6yqLNKDSyjCMiux4D67zWKQzskZwuooI/edit?usp=sharing)
+
 ---
 
 ## 🔧 Stack Tecnológico
