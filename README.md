@@ -81,7 +81,7 @@
 
 | Plataforma | Demo |
 |------------|------|
-| 📱 **Android** | [Guía]() |
+| 📱 **Android** | [Guía](https://youtu.be/eOzfiifaCSI) |
 | 💻 **Web** | [Guía](https://youtu.be/JpoNFGmCaOk) |
 
 ---
